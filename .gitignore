@@ -1,0 +1,8 @@
+# Generated images
+output/*.png
+output/body.png
+output/header.png
+
+# Temporary files
+*.log
+*.tmp
