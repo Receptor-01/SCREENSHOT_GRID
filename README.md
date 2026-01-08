@@ -8,7 +8,7 @@ This tool helps me organize all my scattered screenshots into a single image lim
 
 Script runs locally with no installs
 
----
+
 
 ## What It Does
 
@@ -20,7 +20,7 @@ Script runs locally with no installs
   - Vertical (scroll-style)
 - Saves the final image to the `output` folder
 
----
+
 
 ## How To Use
 1. Place PNG screenshots in the `input` folder.
@@ -31,14 +31,14 @@ Script runs locally with no installs
    - Layout (G = Grid, V = Vertical)
 4. Find the final image in `output/<file_name>.png`.
 
----
+
 
 ## Layout Notes
 - Grid layout = best for overviews.
 - Vertical layout = best for step-by-step guides.
 - Screenshot order follows filename order.
 
----
+
 
 ## Notes
 - Runs completely offline.
