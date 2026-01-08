@@ -1,9 +1,12 @@
-# Screenshot Compiler
+# SCREENSHOT_GRID
 
 This tool combines multiple screenshots into a single image file.
-It is intended for documentation, research, and project records.
 
-The script runs locally and does not install anything on the system.
+I made this tool to help me save time when keeping project knowledge organized.
+I often find myself taking screenshots to save information, steps, terminal commands etc for a project, and then I end up with all of these information bits spread all over the place.
+This tool helps me organize all my scattered screenshots into a single image limitiing the amount of junk files I have to save and dig through to access 
+
+Script runs locally with no installs
 
 ---
 
