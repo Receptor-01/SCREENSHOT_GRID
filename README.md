@@ -22,17 +22,6 @@ Script runs locally with no installs
 
 ---
 
-## Folder Structure
-
-SCREENSHOT_COMPILER/
-├─ input/ (screenshots go here)
-├─ output/ (final image is saved here)
-├─ tools/ (portable ImageMagick)
-├─ compile_grid.bat
-└─ README.md
-
----
-
 ## How To Use
 
 1. Place PNG screenshots in the `input` folder.
