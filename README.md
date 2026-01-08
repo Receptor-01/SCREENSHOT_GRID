@@ -23,7 +23,6 @@ Script runs locally with no installs
 ---
 
 ## How To Use
-
 1. Place PNG screenshots in the `input` folder.
 2. Run `compile_grid.bat`.
 3. Enter:
@@ -35,15 +34,13 @@ Script runs locally with no installs
 ---
 
 ## Layout Notes
-
-- Grid layout is best for overviews.
-- Vertical layout is best for step-by-step guides.
+- Grid layout = best for overviews.
+- Vertical layout = best for step-by-step guides.
 - Screenshot order follows filename order.
 
 ---
 
 ## Notes
-
 - Runs completely offline.
 - Does not modify system files.
 - Delete the project folder to remove everything.
