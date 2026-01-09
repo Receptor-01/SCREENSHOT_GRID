@@ -8,7 +8,7 @@ This tool helps me organize all my scattered screenshots into a single image lim
 
 ---
 
-This project uses [ImageMagick]([https://imagemagick.org/]) for image processing.  
+This project uses [ImageMagick][https://imagemagick.org/] for image processing.  
 A portable copy of ImageMagick is included in the `tools` folder.
 
 No installation is required.  
