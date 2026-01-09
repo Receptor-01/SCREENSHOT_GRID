@@ -7,20 +7,7 @@ Insanely powerful image editing tool... f u adobe im still trying to cancel my s
 
 ---
 
-## What It Does
-
-- Reads screenshots from the `input` folder
-- Adds a title at the top
-- Combines screenshots into one image
-- Supports two layouts:
-  - Grid
-  - Vertical (scroll-style)
-- Saves the final image to the `output` folder
-
-
-
-## How To Use
-1. Place PNG screenshots in the `input` folder.
+1. Place PNG imgs in the `input` folder.
 2. Run `compile_grid.bat`.
 3. Enter:
    - Output file name
@@ -28,16 +15,7 @@ Insanely powerful image editing tool... f u adobe im still trying to cancel my s
    - Layout (G = Grid, V = Vertical)
 4. Find the final image in `output/<file_name>.png`.
 
-
-
-## Layout Notes
 - Grid layout = best for overviews.
 - Vertical layout = best for step-by-step guides.
 - Screenshot order follows filename order.
 
-
-
-## Notes
-- Runs completely offline.
-- Does not modify system files.
-- Delete the project folder to remove everything.
