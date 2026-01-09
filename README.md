@@ -1,20 +1,9 @@
 # SCREENSHOT_GRID
 
-This tool combines multiple screenshots into a single image file.
+Combine multiple imgs into one
 
-I made this tool to help me save time when keeping project knowledge organized.
-I often find myself taking screenshots to save information, steps, terminal commands etc for a project, and then I end up with all of these information bits spread all over the place.
-This tool helps me organize all my scattered screenshots into a single image limitiing the amount of junk files I have to save and dig through to access 
-
----
-
-This project uses [ImageMagick](https://imagemagick.org/) for image processing.
+[ImageMagick](https://imagemagick.org/) for image processing.
 Insanely powerful image editing tool... f u adobe im still trying to cancel my subscription
-A portable copy of ImageMagick is included in the `tools` folder.
-
-No installation is required.  
-The script does not modify system settings or PATH.
-Script runs locally with no installs
 
 ---
 
